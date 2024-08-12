@@ -6,17 +6,26 @@ Write both a recursive and an iterative C++ function to compute $f_i$. please no
 When using a recursive function to compute $f_n$ ,how many recursive calls are invoked?
 
 ## Input
-single line with a number of n. $ 0 \le n \le 40 $
+
+single line with a number of n.
+
+### Technical Specification
+
+$0 \le n \le 40$
 
 ## Output
+
 single line with a number which many recursive calls are invoked when using a recursive function to compute $f_n$ .
 
 ### Sample input
+
 ```plain
 11
 
 ```
+
 ### Sample Output
+
 ```plain
 287
 
