@@ -1,11 +1,18 @@
 # Ackermann Function
 
 請以遞迴實作 Ackermann 函數，已知函數敘述如下：
-![Ackermann function](image.png)
+
+$$
+A(m,n) = \begin{cases}
+n+1 & 若\ m=0 \\
+A(M-1, 1) & 若\ m>0\ 且\ n=0 \\
+A(m-1, A(m,n-1)) & 若\ m>0\ 且\ n>0
+\end{cases}
+$$
 
 ## 輸入
 
-每一行有兩個數字 $m$ 跟 $n$，輸入到EOF (End of File)。
+每一行有兩個數字 $m$ 跟 $n$，輸入到 EOF (End of File)。
 
 ## 輸出
 
@@ -23,7 +30,7 @@
 
 ### Output
 
-```
+```plain
 3
 29
 253
