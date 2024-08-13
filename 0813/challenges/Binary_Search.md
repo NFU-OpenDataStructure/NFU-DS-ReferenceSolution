@@ -21,14 +21,48 @@ Given a sorted array of integers `arr` and a target value `target`, design a pro
 
 ### Sample I/O 1
 
-```cpp
-Input: arr = {1, 2, 3, 4, 5, 6, 7, 8, 9}, target = 5
-Output: 4
+Input
+
+```shell
+輸入測資數：1
+輸入長度：5
+輸入陣列：5 4 3 2 1
+arr = {1, 2, 3, 4, 5}
+輸入找尋的資料：5
+```
+
+Output
+
+```shell
+找到在元素在 arr[4]
 ```
 
 ### Sample I/O 2
 
-```cpp
-Input: arr = {1, 2, 3, 4, 5, 6, 7, 8, 9}, target = 10
-Output: -1
+Input
+
+```shell
+輸入測資數：3
+輸入長度：5
+輸入陣列：5 4 3 2 1
+arr = {1, 2, 3, 4, 5}
+輸入找尋的資料：5
+
+輸入長度：1
+輸入陣列：0
+arr = {0}
+輸入找尋的資料：1
+
+輸入長度：3
+輸入陣列：2 9 1
+arr = {1, 2, 9}
+輸入找尋的資料：2
+```
+
+Output
+
+```shell
+找到在元素在 arr[4]
+Not Found
+找到在元素在 arr[1]
 ```
