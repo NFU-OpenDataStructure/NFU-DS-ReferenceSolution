@@ -1,4 +1,7 @@
-# 暑修 資料結構(一) Test 2 參考解答
+# 小考 2 參考解答
+
+> [!NOTE]  
+> 112 資料結構暑修
 
 1. What are the mertis of using **iterators** in a data structure? **[$10%]**
 
