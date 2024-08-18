@@ -1,34 +1,11 @@
 # NFU-DS-ReferenceSolution
 
-## 程式參考
+虎尾科大 112 資料結構暑修 - 題目與參考解答
 
-### 2024/07/16
+## 程式參考解答
 
-> [!NOTE]
->
-> 1. hello world
-> 2. 基本陣列操作
-> 3. 字串讀取問題
-> 4. cola
-> 
-> 指標講解之後
->
-> 1. copy
-> 2. Swap
-> 3. 費式數列
-> 4. GCD 遞迴
-
-1. [hello world](0716/hello.cpp)
-2. [copy](0716/copy.cpp)
-3. [getline](0716/getline.cpp)
-4. [swap](0716/swap.cpp)
-5. [費式數列](0716/fibonacci.cpp)
-6. [GCD 遞迴](0716/gcd.cpp)
-
-### 2024/07/17
-
-1. [建構子](0717/constructor.cpp)
-2. [建構子（第二種寫法）](0717/constructor_alternative.cpp)
+- [07/16](./0716/README.md)
+- [07/16](./0717/README.md)
 
 ## LeetCode
 
@@ -39,3 +16,7 @@
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+
+## 授權
+
+遵守 [MIT](./LICENSE) 授權條款。

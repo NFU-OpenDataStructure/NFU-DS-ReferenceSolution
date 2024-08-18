@@ -13,6 +13,10 @@ $$N! = N+(N-1)+(N-2)+\cdots+2+1 = N+(N-1)!$$
 
 ### Example Input
 
+> [!IMPORTANT]
+>
+> 請注意測資格式的最後一行的換行。
+
 ```plain
 100
 46

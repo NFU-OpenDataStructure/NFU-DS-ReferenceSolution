@@ -20,6 +20,10 @@ $$
 
 ### Example Input
 
+> [!IMPORTANT]
+>
+> 請注意測資格式的最後一行的換行。
+
 ```plain
 1 1
 3 2
@@ -28,7 +32,7 @@ $$
 
 ```
 
-### Output
+### Example Output
 
 ```plain
 3
